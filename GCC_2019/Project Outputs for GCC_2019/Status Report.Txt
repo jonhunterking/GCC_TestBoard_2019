@@ -1,9 +1,12 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [GCC_2019.PrjPcb]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [GCC_2019.PrjPcb]
+   Generated File[GCC_2019-Plated.TXT]
+   Generated File[GCC_2019.LDP]
+   Generated File[GCC_2019.DRR]
 
 
-Files Generated   : 0
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 1:57:11 PM On 2019-06-02
+Finished Output Generation At 9:29:15 AM On 2019-06-04
